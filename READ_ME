@@ -1,0 +1,13 @@
+Ella Johnson
+CSCI 4810
+
+To run this project you must be in the assignment2 directory
+Make sure you have python3 and all the related packages
+
+Run the main program by tying into the command line:
+python .\main.py
+
+The menu reprints after every command
+First enter the number for your option and then follow the instructions
+ex.) for 8 - Scale enter the amounts you want to scale and then the x and y it should be centered on
+The method signatures are similar to the ones listed in the assignment instructions
